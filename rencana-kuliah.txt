@@ -6,6 +6,7 @@ RENCANA KULIAH
 *ES6
 *Framework Javascript
   > React
+  > Vue
 *php Framework
   > Laravel
 -github
