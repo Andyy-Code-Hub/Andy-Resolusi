@@ -5,5 +5,9 @@ RENCANA KULIAH
 -javascript
 *ES6
 *Framework Javascript
+  > React
+*php Framework
+  > Laravel
 -github
 -magang
+-phyton
