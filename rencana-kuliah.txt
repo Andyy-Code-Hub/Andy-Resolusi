@@ -5,4 +5,5 @@ RENCANA KULIAH
 -javascript
 *ES6
 *Framework Javascript
+-github
 -magang
