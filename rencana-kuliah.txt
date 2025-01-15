@@ -3,4 +3,6 @@ RENCANA KULIAH
 -html
 -css
 -javascript
+*ES6
+*Framework Javascript
 -magang
